@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tarea1150719</string>
+    <string name="app_Ing1">Ingrese A</string>
+    <string name="app_Ing1R">Ingrese valor uno</string>
+    <string name="app_Ing2">Ingrese B</string>
+    <string name="app_Ing2R">Ingrese valor dos</string>
+    <string name="app_Ing3">Ingrese C</string>
+    <string name="app_Ing3R">Ingrese valor tres</string>
+    <string name="app_Rai">Raiz</string>
+    <string name="app_Rai1">La raiz es</string>
+    <string name="app_X1">X1</string>
+    <string name="app_X11">El valor de X1 es</string>
+    <string name="app_X2">X2</string>
+    <string name="app_X21">El valor de X2 es</string>
+    <string name="app_Cal">Calcular</string>
+</resources>
